@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4.PasswordValidator", "P4.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5.AddAndSubtract", "P5.AddAndSubtract\P5.AddAndSubtract.csproj", "{5D5082F9-8A55-4B06-BFA1-028BDFF6FAC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6.MiddleCharacters", "P6.MiddleCharacters\P6.MiddleCharacters.csproj", "{849F52C1-CE79-48BA-A9E2-83765F61AC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7.NxNMatrix", "P7.NxNMatrix\P7.NxNMatrix.csproj", "{4BB97F5D-059E-4CEB-BCE2-14799F11C811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5D5082F9-8A55-4B06-BFA1-028BDFF6FAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D5082F9-8A55-4B06-BFA1-028BDFF6FAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D5082F9-8A55-4B06-BFA1-028BDFF6FAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849F52C1-CE79-48BA-A9E2-83765F61AC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849F52C1-CE79-48BA-A9E2-83765F61AC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849F52C1-CE79-48BA-A9E2-83765F61AC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849F52C1-CE79-48BA-A9E2-83765F61AC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB97F5D-059E-4CEB-BCE2-14799F11C811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB97F5D-059E-4CEB-BCE2-14799F11C811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB97F5D-059E-4CEB-BCE2-14799F11C811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB97F5D-059E-4CEB-BCE2-14799F11C811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

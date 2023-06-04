@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1.SmallestOfThreeNumbers",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2.VowelsCount", "P2.VowelsCount\P2.VowelsCount.csproj", "{8BFFD2F3-3C6D-4AF6-B499-286DF7D747CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3.CharactersInRange", "P3.CharactersInRange\P3.CharactersInRange.csproj", "{0041760F-60E1-476F-BA96-8EEEE54DE34A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8BFFD2F3-3C6D-4AF6-B499-286DF7D747CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BFFD2F3-3C6D-4AF6-B499-286DF7D747CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BFFD2F3-3C6D-4AF6-B499-286DF7D747CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0041760F-60E1-476F-BA96-8EEEE54DE34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0041760F-60E1-476F-BA96-8EEEE54DE34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0041760F-60E1-476F-BA96-8EEEE54DE34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0041760F-60E1-476F-BA96-8EEEE54DE34A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

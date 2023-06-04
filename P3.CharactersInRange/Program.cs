@@ -6,7 +6,7 @@ namespace P3.CharactersInRange
     internal class Program
     {
         
-        static int ConvertIntToCharAndPrint(int num1, int num2)
+        static int PrintCharsInBetween(int num1, int num2)
         {
             if (num1 < num2)
             {
@@ -27,15 +27,12 @@ namespace P3.CharactersInRange
         }
         static void Main(string[] args)
         {
-            
-
             char character1 = char.Parse(Console.ReadLine());
             char character2 = char.Parse(Console.ReadLine());
             int num1 = (int)character1;
             int num2 = (int)character2;
 
-            ConvertIntToCharAndPrint(num1, num2);
-
+            PrintCharsInBetween(num1, num2);
         }
     }
 }
